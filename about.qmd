@@ -16,7 +16,6 @@ format:
         Icon by <a href="https://adioma.com">Adioma</a>
       </div>
 resources: 
-    - cv/cv.qmd
     - contact.qmd
 ---
 
