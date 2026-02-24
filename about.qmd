@@ -1,0 +1,82 @@
+---
+title: "Sarah Salois"
+subtitle: Fisheries Biologist
+image: images/dyrsten_crew.jpeg 
+#image-alt: 
+about:
+  template: trestles
+  image-width: 16em
+  image-shape: rounded
+  id: hero-heading
+format:
+  html:
+    body-footer: |
+      <hr>
+      <div style="text-align: right; font-size: 0.8em;">
+        Icon by <a href="https://adioma.com">Adioma</a>
+      </div>
+resources: 
+    - cv.qmd
+---
+
+::: {#hero-heading}
+<div class="h1">Hello!</div>
+    
+I work as a Fisheries Biologist in the [Cooperative Researach Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/cooperative-research-northeast) at the [Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)
+in Narragansett, Rhode Island.
+  
+[**Shoot me an email**](contact.qmd)! &nbsp; <i class="fa-solid fa-fish"></i>
+  
+:::
+    
+
+
+## A little more about me ... 
+
+  
+**Marine Ecologist** &nbsp;![](images/predator.png){height=1.5em} {{< fa desktop >}} &nbsp;{{< fa arrow-right >}} &nbsp;
+**Fisheries Biologist** &nbsp;![](images/squid.png){height=1.5em} {{< fa desktop >}}
+
+<hr>
+
+### My Research Pillars:
+
+- **Cooperative Research:** Building strong, collaborative partnerships between
+the fishing industry and science to improve trust and management outcomes.
+
+- **Integrated Ocean Data:** Integrating a variety of data including in-situ subsurface data, satellite data, and oceanographic model outputs to better
+understand our marine ecosystems.
+
+- **Data Accessibility:** Developing high-quality visualizations and data 
+products that return insights directly to the folks on the water.
+
+<hr>
+
+### Background
+
+I started at NOAA Fisheries in workign at the [Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center) collaboration with [SMAST UMASS Dartmouth](https://www.umassd.edu/smast/) as a [CINAR](https://ci.noaa.gov/locations/cinar/) postdoctoral fellow looking at 
+the oceanographic drivers of the [**Northern Shortfin Squid** (*Illex illecebrosus*)](https://www.fisheries.noaa.gov/species/shortfin-squid).
+Knowing very little about the squid fishery in the Northwest Atlantic, 
+necessitated that I talk with commercial squid fishermen in our region.
+I also had a lot to learn about the underlying mechanisms in our extremely 
+dynamic ocean, connecting me with local oceanographers. Through this opportunity 
+to listen and learn from this amazing group of folks, I quickly developed a deep
+passion and respect for Cooperative Research.
+
+
+I have since expanded my research portfolio to include a few other commercially 
+important species including: 
+ 
+ -  [**Longfin Squid**(*Doryteuthis pealeii*)]()https://www.fisheries.noaa.gov/species/longfin-squid
+ -  [**Golden Tilefish** (*Lopholatilus chamaeleonticeps*)](https://www.fisheries.noaa.gov/species/golden-tilefish) 
+
+<hr>
+
+Prior to working in the fisheries world, I was modeling metacommunity dynamics 
+to understand the interplay of abiotic and biotic drivers in marine ecosystems. 
+I used mathematical models, computer simulations and statistical analyses to 
+explore potential vulnerabilities of ecoystems in an era of global change. You 
+can read more about that research [here](https://sarahsalois.weebly.com/research.html). 
+
+         
+

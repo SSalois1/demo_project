@@ -1,0 +1,30 @@
+---
+title: "Oceanographic Drivers of Shortfin Squid"
+description: |
+  Working with the commercial squid fishing industry to better 
+  understand how ocean conditions and processes influence the variability of 
+  shortfin squid catch in the Mid-Atlantic.
+date: "2025-06-24"
+categories: ["Research", "Oceanography", "Field-Work"]
+citation: false
+toc: false
+comments: false
+format: 
+  html: 
+    page-layout: full
+    title-block-style: plain
+    title-block-banner: false
+---
+
+
+My post content starts here. I will add R code chunks, images, and math.
+
+```{r}
+#| label: plot-example
+plot(cars)
+
+
+```
+
+
+

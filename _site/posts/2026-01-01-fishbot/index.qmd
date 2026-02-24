@@ -1,0 +1,20 @@
+---
+title: "FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries"
+description: |
+  A standardized gridded data product built to increase access to observations of    
+  underwater conditions collected by both fishing and science communities.
+date: "2026-01-01"
+categories: ["Data", "Oceanography", "Cooperative-Research"]
+citation: false
+toc: false
+comments: false
+format: 
+  html: 
+    page-layout: article
+    title-block-style: plain
+    title-block-banner: false
+---
+
+Talk about FIShBOT here.
+
+![](fishbot_coverage_log_update.png)

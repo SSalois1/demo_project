@@ -1,0 +1,53 @@
+project: 
+  type: website
+  resources: 
+    - images/
+    - cv/
+    - posts/
+    
+    
+website: 
+  title: 'Sarah Salois, Ph.D'
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: current_projects.qmd
+        text: Projects
+      - href: cv/cv.qmd
+        text: CV
+     
+  page-footer: # note you need to intall academicicons and fontawesome extenstions
+    left: >-
+      &#169; 2026 Sarah Salois &#8729; Made with [Quarto](https://quarto.org)
+    center: 
+      <a class="link-dark me-1" href="https://linkedin.com/in/sarah-salois-946041355" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link-dark me-1" href="https://github.com/SSalois1" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/0000-0002-0756-0778" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?hl=en&user=DLD9Eh0AAAAJ" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
+    right: "[Contact](contact.qmd)"
+format:
+  html:
+    lightbox: true
+    code-copy: true
+    code-overflow: wrap
+    code-tools: false
+    theme:
+     - cosmo
+     - styles.scss
+    toc: true
+  
+execute:
+  freeze: auto
+
+
+## Note - here are the lines to add extensions for icons:
+## quarto add quarto-ext/fontawesome
+##   quarto install extension schochastics/academicons 
+
+
+
+
+ 
