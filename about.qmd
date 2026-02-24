@@ -17,6 +17,7 @@ format:
       </div>
 resources: 
     - cv/cv.qmd
+    - contact.qmd
 ---
 
 ::: {#hero-heading}
@@ -25,7 +26,7 @@ resources:
 I work as a Fisheries Biologist in the [Cooperative Researach Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/cooperative-research-northeast) at the [Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)
 in Narragansett, Rhode Island.
   
-[**Shoot me an email**](cv/contact.qmd)! &nbsp; <i class="fa-solid fa-fish"></i>
+[**Shoot me an email**](contact.qmd)! &nbsp; <i class="fa-solid fa-fish"></i>
   
 :::
     
