@@ -1,0 +1,22 @@
+---
+title: 'Sarah Salois, PhD'
+pagetitle: 'Sarah Salois, PhD'
+subtitle: 'Fisheries Biologist at the Northeast Fisheries Science Center'
+format: 
+  html:
+    page-layout: full
+about:
+  template: jolla
+  image: images/squid_img.jpg  
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/SSalois1 
+---
+
+
+::: {#hero-heading}
+I am a marine ecologist by training with a passion for **collaboration**. The crux of my **research** aims to bring the knowledge and data of the fishing community into the scientific process to support the management of our local ecosystems. This can look like developing new data streams with industry partners or building new data products to leverage the vast amount of data the fishing community collects. My work explores the links between oceanographic conditions and species dynamics across important life history stages.
+:::
+
+<!-- hero-heading -->

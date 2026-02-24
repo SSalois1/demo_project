@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+  
+
+Professional Positions
+======
+* 2025-present: **Fisheries Biologist**, [Saltwater Inc.](https://www.saltwaterinc.com/) in support of NOAA Fisheries, NEFSC
+* 2024 - 2025 **Fisheries Biologist**, [NOAA Fisheries](https://www.fisheries.noaa.gov/),Narragansett,RI
+
+
+Education
+======
+  
+* PhD in Ecology, Evolution and Marine Biology, [Northeastern University,Boston, MA](https://cos.northeastern.edu/marinescience/), 2019
+* B.S. Biology, [Eastern Connecticut State University](https://www.easternct.edu/index.html), 2012
+
+
+Publications
+======
+
+
+Presentations
+======
