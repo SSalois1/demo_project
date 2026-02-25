@@ -3,7 +3,7 @@ project:
   output-dir: _site
   resources: 
     - images/
-    - cv/
+    - cv.qmd
     - posts/
     - contact.qmd
     
