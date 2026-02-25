@@ -3,10 +3,7 @@ project:
   output-dir: _site
   resources: 
     - images/
-    - cv.qmd
-    - posts/
-    - contact.qmd
-    
+
 website: 
   title: 'Sarah Salois, Ph.D'
   navbar:
@@ -15,7 +12,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: current_projects.qmd
+      - href: posts/current_projects.qmd
         text: Projects
       - href: cv/cv.qmd
         text: CV
