@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://SSalois1.github.io/demo_project/posts/2026-01-01-fishbot/index.html</loc>
-    <lastmod>2026-02-24T22:40:27.540Z</lastmod>
+    <loc>https://SSalois1.github.io/demo_project/posts/index.html</loc>
+    <lastmod>2026-02-25T15:57:28.994Z</lastmod>
   </url>
   <url>
-    <loc>https://SSalois1.github.io/demo_project/index.html</loc>
-    <lastmod>2026-02-24T22:30:24.367Z</lastmod>
+    <loc>https://SSalois1.github.io/demo_project/posts/2025-06-24-shortfin/index.html</loc>
+    <lastmod>2026-02-24T22:30:24.369Z</lastmod>
   </url>
   <url>
-    <loc>https://SSalois1.github.io/demo_project/current_projects.html</loc>
-    <lastmod>2026-02-24T22:30:24.357Z</lastmod>
+    <loc>https://SSalois1.github.io/demo_project/cv.html</loc>
+    <lastmod>2026-02-25T01:36:16.481Z</lastmod>
   </url>
   <url>
     <loc>https://SSalois1.github.io/demo_project/about.html</loc>
@@ -21,11 +21,11 @@
     <lastmod>2026-02-24T22:30:24.356Z</lastmod>
   </url>
   <url>
-    <loc>https://SSalois1.github.io/demo_project/cv.html</loc>
-    <lastmod>2026-02-25T01:36:16.481Z</lastmod>
+    <loc>https://SSalois1.github.io/demo_project/index.html</loc>
+    <lastmod>2026-02-24T22:30:24.367Z</lastmod>
   </url>
   <url>
-    <loc>https://SSalois1.github.io/demo_project/posts/2025-06-24-shortfin/index.html</loc>
-    <lastmod>2026-02-24T22:30:24.369Z</lastmod>
+    <loc>https://SSalois1.github.io/demo_project/posts/2026-01-01-fishbot/index.html</loc>
+    <lastmod>2026-02-24T22:40:27.540Z</lastmod>
   </url>
 </urlset>
