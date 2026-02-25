@@ -1,6 +1,7 @@
 project: 
   type: website
-  resources: 
+   output-dir: _site
+   resources: 
     - images/
     - cv/
     - posts/
