@@ -12,9 +12,9 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: posts/current_projects.qmd
+      - href: posts/index.qmd
         text: Projects
-      - href: cv/cv.qmd
+      - href: cv.qmd
         text: CV
 
   page-footer: # note you need to intall academicicons and fontawesome extenstions

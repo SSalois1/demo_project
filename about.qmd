@@ -25,7 +25,7 @@ resources:
 I work as a Fisheries Biologist in the [Cooperative Researach Branch](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/cooperative-research-northeast) at the [Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)
 in Narragansett, Rhode Island.
   
-[**Shoot me an email**](contact.qmd)! &nbsp; <i class="fa-solid fa-fish"></i>
+[**Shoot me an email**](/contact.qmd)! &nbsp; <i class="fa-solid fa-fish"></i>
   
 :::
     
@@ -54,28 +54,28 @@ products that return insights directly to the folks on the water.
 
 ### Background
 
-I started at NOAA Fisheries in workign at the [Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center) collaboration with [SMAST UMASS Dartmouth](https://www.umassd.edu/smast/) as a [CINAR](https://ci.noaa.gov/locations/cinar/) postdoctoral fellow looking at 
+I started at NOAA Fisheries at the [Northeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center) in collaboration with [SMAST UMASS Dartmouth](https://www.umassd.edu/smast/) as a [CINAR](https://ci.noaa.gov/locations/cinar/) Postdoctoral Fellow looking at 
 the oceanographic drivers of the [**Northern Shortfin Squid** (*Illex illecebrosus*)](https://www.fisheries.noaa.gov/species/shortfin-squid).
 Knowing very little about the squid fishery in the Northwest Atlantic, 
 necessitated that I talk with commercial squid fishermen in our region.
 I also had a lot to learn about the underlying mechanisms in our extremely 
 dynamic ocean, connecting me with local oceanographers. Through this opportunity 
-to listen and learn from this amazing group of folks, I quickly developed a deep
+to listen and learn from this amazing group of people, I quickly developed a deep
 passion and respect for Cooperative Research.
 
 
-I have since expanded my research portfolio to include a few other commercially 
+I have since expanded my research portfolio to include other commercially 
 important species including: 
  
- -  [**Longfin Squid**(*Doryteuthis pealeii*)]()https://www.fisheries.noaa.gov/species/longfin-squid
+ -  [**Longfin Squid**(*Doryteuthis pealeii*)](https://www.fisheries.noaa.gov/species/longfin-squid)
  -  [**Golden Tilefish** (*Lopholatilus chamaeleonticeps*)](https://www.fisheries.noaa.gov/species/golden-tilefish) 
 
 <hr>
 
 Prior to working in the fisheries world, I was modeling metacommunity dynamics 
-to understand the interplay of abiotic and biotic drivers in marine ecosystems. 
+to better understand the interplay of abiotic and biotic drivers in marine ecosystems. 
 I used mathematical models, computer simulations and statistical analyses to 
-explore potential vulnerabilities of ecoystems in an era of global change. You 
+explore potential vulnerabilities of ecosystems in an era of global change. You 
 can read more about that research [here](https://sarahsalois.weebly.com/research.html). 
 
          

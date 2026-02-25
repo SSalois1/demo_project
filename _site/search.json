@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "posts/2026-01-01-fishbot/index.html",
-    "href": "posts/2026-01-01-fishbot/index.html",
-    "title": "FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries",
-    "section": "",
-    "text": "Talk about FIShBOT here."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sarah Salois, PhD",
-    "section": "",
-    "text": "I am a marine ecologist by training with a passion for collaboration. The crux of my research aims to bring the knowledge and data of the fishing community into the scientific process to support the management of our local ecosystems. This can look like developing new data streams with industry partners or building new data products to leverage the vast amount of data the fishing community collects. My work explores the links between oceanographic conditions and species dynamics across important life history stages."
-  },
-  {
-    "objectID": "current_projects.html",
-    "href": "current_projects.html",
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
     "title": "Current Projects",
     "section": "",
     "text": "FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries\n\n\n\nData\n\nOceanography\n\nCooperative-Research\n\n\n\nA standardized gridded data product built to increase access to observations of underwater conditions collected by both fishing and science communities.\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOceanographic Drivers of Shortfin Squid\n\n\n\nResearch\n\nOceanography\n\nField-Work\n\n\n\nWorking with the commercial squid fishing industry to better understand how ocean conditions and processes influence the variability of shortfin squid catch in the Mid-Atlantic.\n\n\n\n\n\nJun 24, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2025-06-24-shortfin/index.html",
+    "href": "posts/2025-06-24-shortfin/index.html",
+    "title": "Oceanographic Drivers of Shortfin Squid",
+    "section": "",
+    "text": "My post content starts here. I will add R code chunks, images, and math.\n\nplot(cars)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Professional Positions\n\n2025-present: Fisheries Biologist, Saltwater Inc. in support of NOAA Fisheries, NEFSC\n2024 - 2025 Fisheries Biologist, NOAA Fisheries,Narragansett,RI\n\n\n\nEducation\n\nPhD in Ecology, Evolution and Marine Biology, Northeastern University,Boston, MA, 2019\nB.S. Biology, Eastern Connecticut State University, 2012\n\n\n\nPublications\n\n\nPresentations"
   },
   {
     "objectID": "about.html",
@@ -42,17 +42,17 @@
     "text": "Let’s chat!\n Send me an email to contact me about collaborations, research questions, or simply to say hello!\nEmail: sarah.salois@noaa.gov\nPhone: (401) 646-9118"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah Salois, PhD",
     "section": "",
-    "text": "Professional Positions\n\n2025-present: Fisheries Biologist, Saltwater Inc. in support of NOAA Fisheries, NEFSC\n2024 - 2025 Fisheries Biologist, NOAA Fisheries,Narragansett,RI\n\n\n\nEducation\n\nPhD in Ecology, Evolution and Marine Biology, Northeastern University,Boston, MA, 2019\nB.S. Biology, Eastern Connecticut State University, 2012\n\n\n\nPublications\n\n\nPresentations"
+    "text": "I am a marine ecologist by training with a passion for collaboration. The crux of my research aims to bring the knowledge and data of the fishing community into the scientific process to support the management of our local ecosystems. This can look like developing new data streams with industry partners or building new data products to leverage the vast amount of data the fishing community collects. My work explores the links between oceanographic conditions and species dynamics across important life history stages."
   },
   {
-    "objectID": "posts/2025-06-24-shortfin/index.html",
-    "href": "posts/2025-06-24-shortfin/index.html",
-    "title": "Oceanographic Drivers of Shortfin Squid",
+    "objectID": "posts/2026-01-01-fishbot/index.html",
+    "href": "posts/2026-01-01-fishbot/index.html",
+    "title": "FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries",
     "section": "",
-    "text": "My post content starts here. I will add R code chunks, images, and math.\n\nplot(cars)"
+    "text": "Talk about FIShBOT here."
   }
 ]
