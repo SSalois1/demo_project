@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/2026-01-01-fishbot/index.html",
+    "href": "posts/2026-01-01-fishbot/index.html",
+    "title": "FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries",
+    "section": "",
+    "text": "Talk about FIShBOT here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah Salois, PhD",
+    "section": "",
+    "text": "I am a marine ecologist by training with a passion for collaboration. The crux of my research aims to bring the knowledge and data of the fishing community into the scientific process to support the management of our local ecosystems. This can look like developing new data streams with industry partners or building new data products to leverage the vast amount of data the fishing community collects. My work explores the links between oceanographic conditions and species dynamics across important life history stages."
+  },
+  {
+    "objectID": "current_projects.html",
+    "href": "current_projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries\n\n\n\nData\n\nOceanography\n\nCooperative-Research\n\n\n\nA standardized gridded data product built to increase access to observations of underwater conditions collected by both fishing and science communities.\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOceanographic Drivers of Shortfin Squid\n\n\n\nResearch\n\nOceanography\n\nField-Work\n\n\n\nWorking with the commercial squid fishing industry to better understand how ocean conditions and processes influence the variability of shortfin squid catch in the Mid-Atlantic.\n\n\n\n\n\nJun 24, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sarah Salois",
+    "section": "",
+    "text": "Hello!\n\nI work as a Fisheries Biologist in the Cooperative Researach Branch at the Northeast Fisheries Science Center in Narragansett, Rhode Island.\nShoot me an email!"
+  },
+  {
+    "objectID": "about.html#a-little-more-about-me",
+    "href": "about.html#a-little-more-about-me",
+    "title": "Sarah Salois",
+    "section": "A little more about me …",
+    "text": "A little more about me …\nMarine Ecologist        Fisheries Biologist   \n\n\nMy Research Pillars:\n\nCooperative Research: Building strong, collaborative partnerships between the fishing industry and science to improve trust and management outcomes.\nIntegrated Ocean Data: Integrating a variety of data including in-situ subsurface data, satellite data, and oceanographic model outputs to better understand our marine ecosystems.\nData Accessibility: Developing high-quality visualizations and data products that return insights directly to the folks on the water.\n\n\n\n\nBackground\nI started at NOAA Fisheries in workign at the Northeast Fisheries Science Center collaboration with SMAST UMASS Dartmouth as a CINAR postdoctoral fellow looking at the oceanographic drivers of the Northern Shortfin Squid (Illex illecebrosus). Knowing very little about the squid fishery in the Northwest Atlantic, necessitated that I talk with commercial squid fishermen in our region. I also had a lot to learn about the underlying mechanisms in our extremely dynamic ocean, connecting me with local oceanographers. Through this opportunity to listen and learn from this amazing group of folks, I quickly developed a deep passion and respect for Cooperative Research.\nI have since expanded my research portfolio to include a few other commercially important species including:\n\nLongfin Squid(Doryteuthis pealeii)https://www.fisheries.noaa.gov/species/longfin-squid\nGolden Tilefish (Lopholatilus chamaeleonticeps)\n\n\nPrior to working in the fisheries world, I was modeling metacommunity dynamics to understand the interplay of abiotic and biotic drivers in marine ecosystems. I used mathematical models, computer simulations and statistical analyses to explore potential vulnerabilities of ecoystems in an era of global change. You can read more about that research here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Let’s chat!",
+    "section": "",
+    "text": "Let’s chat!\n Send me an email to contact me about collaborations, research questions, or simply to say hello!\nEmail: sarah.salois@noaa.gov\nPhone: (401) 646-9118"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Professional Positions\n\n2025-present: Fisheries Biologist, Saltwater Inc. in support of NOAA Fisheries, NEFSC\n2024 - 2025 Fisheries Biologist, NOAA Fisheries,Narragansett,RI\n\n\n\nEducation\n\nPhD in Ecology, Evolution and Marine Biology, Northeastern University,Boston, MA, 2019\nB.S. Biology, Eastern Connecticut State University, 2012\n\n\n\nPublications\n\n\nPresentations"
+  },
+  {
+    "objectID": "posts/2025-06-24-shortfin/index.html",
+    "href": "posts/2025-06-24-shortfin/index.html",
+    "title": "Oceanographic Drivers of Shortfin Squid",
+    "section": "",
+    "text": "My post content starts here. I will add R code chunks, images, and math.\n\nplot(cars)"
+  }
+]

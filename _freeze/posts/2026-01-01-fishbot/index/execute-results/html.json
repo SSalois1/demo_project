@@ -1,0 +1,17 @@
+{
+  "hash": "049e8923de8b59a49f0296e2dd4781ca",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries\"\ndescription: |\n  A standardized gridded data product built to increase access to observations of    \n  underwater conditions collected by both fishing and science communities.\ndate: \"2026-01-01\"\ncategories: true\nfields: [Data, Oceanography, Cooperative-Research]\ncitation: false\ntoc: false\ncomments: false\nformat: \n  html: \n    page-layout: full\n    title-block-style: plain\n---\n  \n  \n  My post content starts here. I will add R code chunks, images, and math.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/plot-example-1.png){width=672}\n:::\n:::\n\n\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
