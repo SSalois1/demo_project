@@ -4,7 +4,7 @@ project:
     - images/
     - cv/
     - posts/
-    
+    - contact.qmd
     
 website: 
   title: 'Sarah Salois, Ph.D'
@@ -18,7 +18,7 @@ website:
         text: Projects
       - href: cv/cv.qmd
         text: CV
-     
+
   page-footer: # note you need to intall academicicons and fontawesome extenstions
     left: >-
       &#169; 2026 Sarah Salois &#8729; Made with [Quarto](https://quarto.org)

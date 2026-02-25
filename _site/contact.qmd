@@ -1,0 +1,21 @@
+---
+pagetitle: Sarah Salois - Contact
+name: Contact Form
+page-layout: article
+format: 
+  html:
+    page-layout: full
+---
+
+  
+# Let's chat! 
+  
+<i class="fa-solid fa-fish"></i> Send me an email to contact me about 
+collaborations, research questions, or simply to say hello!
+
+**Email:** sarah.salois@noaa.gov
+
+
+**Phone:** (401) 646-9118
+
+  
