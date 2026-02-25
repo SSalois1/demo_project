@@ -1,6 +1,9 @@
 [
   {
     "listing": "/posts/index.html",
-    "items": []
+    "items": [
+      "/posts/2026-01-01-fishbot/index.html",
+      "/posts/2025-06-24-shortfin/index.html"
+    ]
   }
 ]
