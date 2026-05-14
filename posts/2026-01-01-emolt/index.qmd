@@ -1,0 +1,31 @@
+---
+title: "eMOLT"
+description: "eMOLT: Environmental Monitors on Lobster Traps and Large Trawlers"
+date: "2026-01-01"
+categories: ["Research", "Oceanography", "Field-Work"]
+citation: false
+toc: false
+comments: false
+format: 
+  html: 
+    page-layout: article
+    title-block-style: plain
+    title-block-banner: false
+---
+  
+
+As part of my work, I support the Environmental Monitors on Lobster Traps and 
+Large Trawlers (eMOLT) program. eMOLT is a collaborative initiative, where
+commercial fishing vessels collect vital oceanographic data. Fishermen deploy 
+sensors to record bottom water temperatures and oxygen levels, which helps 
+improve regional ocean circulation models and supports adaptive fishing practices. 
+
+The data collected is served back to captains in realtime, providing them with 
+oceanographic conditions which they can use to support their fishing decsions.
+information.  
+
+Learn more about [eMOLT](https://www.fisheries.noaa.gov/new-england-mid-atlantic/climate/partnering-fishing-industry-monitor-northeast-shelf)
+
+![](1500x1000-eMOLT-infographic-NEFSC.png)
+
+
