@@ -67,7 +67,8 @@ passion and respect for Cooperative Research.
 I have since expanded my research portfolio to include other commercially 
 important species including: 
  
- -  [**Longfin Squid**(*Doryteuthis pealeii*)](https://www.fisheries.noaa.gov/species/longfin-squid)
+ -  [**Atlantic Mackerel** (*Scomber scombrus*)](https://www.fisheries.noaa.gov/species/atlantic-mackerel)
+ -  [**Longfin Squid** (*Doryteuthis pealeii*)](https://www.fisheries.noaa.gov/species/longfin-squid)
  -  [**Golden Tilefish** (*Lopholatilus chamaeleonticeps*)](https://www.fisheries.noaa.gov/species/golden-tilefish) 
 
 <hr>
@@ -75,7 +76,10 @@ important species including:
 Prior to working in the fisheries world, I was modeling metacommunity dynamics 
 to better understand the interplay of abiotic and biotic drivers in marine ecosystems. 
 I used mathematical models, computer simulations and statistical analyses to 
-explore potential vulnerabilities of ecosystems in an era of global change. You 
+explore potential vulnerabilities of ecosystems in an era of global change. This 
+research gave me a hollistic perspective of ecosystems that I apply to my 
+current research approaches which consider the importance of spatial and 
+temporal scale and connectivity in the context of our marine resources. You 
 can read more about that research [here](https://sarahsalois.weebly.com/research.html). 
 
          
