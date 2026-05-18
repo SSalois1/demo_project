@@ -1,0 +1,34 @@
+---
+title: "FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries"
+description: |
+  A standardized gridded data product built to increase access to observations 
+  of underwater conditions collected by both fishing and science communities.
+date: "2026-02-01"
+categories: ["Data", "Oceanography", "Cooperative-Research"]
+citation: false
+toc: false
+comments: false
+format: 
+  html: 
+    page-layout: article
+    title-block-style: plain
+    title-block-banner: false
+---
+
+FIShBOT is a new exciting near-realtime product that we created to provide 
+standardized daily bottom condition data. FIShBOT is updated every 24 hours
+and currently includes temperature, salinity, and dissolved oxygen. 
+
+The goal of this project is to increase the access to and utility of underwater
+observations collected by fishing and science communities. Until now, this 
+data existed primarily as largely disparate data sources and is now available 
+as daily averages on a common standardized grid across the entire NE Continental 
+Shelf. 
+
+This product is still in development and we are excited to continue to 
+watch it grow and think of more ways to serve it back to the folks who are 
+collecting this critical data! 
+
+Visit our [site](https://fishbot.net) to learn more! 
+
+![](fishbot_coverage_log_update.png)

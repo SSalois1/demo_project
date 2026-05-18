@@ -1,8 +1,8 @@
 {
-  "hash": "3a31bfa48b75b2d9e88c5c68159da17e",
+  "hash": "ed53b917512d2c92242c51c177a2da26",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Oceanographic Drivers of Shortfin Squid\"\ndescription: |\n  Working with the commercial squid fishing industry to better \n  understand how ocean conditions and processes influence the variability of \n  shortfin squid catch in the Mid-Atlantic.\ndate: \"2025-06-24\"\ncategories: [\"Research\", \"Oceanography\", \"Field-Work\"]\ncitation: false\ntoc: false\ncomments: false\nformat: \n  html: \n    page-layout: full\n    title-block-style: plain\n---\n\n\nMy post content starts here. I will add R code chunks, images, and math.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/plot-example-1.png){width=672}\n:::\n:::\n\n\n\n\n",
+    "markdown": "---\ntitle: \"Oceanographic Drivers of Shortfin Squid\"\ndescription: |\n  Working with the commercial squid fishing industry to better \n  understand how ocean conditions and processes influence the variability of \n  shortfin squid catch in the Mid-Atlantic.\ndate: \"2025-06-24\"\ncategories: [\"Research\", \"Oceanography\", \"Field-Work\"]\ncitation: false\ntoc: false\ncomments: false\nformat: \n  html: \n    page-layout: full\n    title-block-style: plain\n    title-block-banner: false\n---\n\n\nMy post content starts here. I will add R code chunks, images, and \nrelevant figures. This is just an example/placeholder.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/plot-example-1.png){width=672}\n:::\n:::\n\n\n\n\n",
     "supporting": [
       "index_files"
     ],

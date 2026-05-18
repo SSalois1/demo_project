@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-01-01">
+<meta name="dcterms.date" content="2026-02-01">
 <meta name="description" content="A standardized gridded data product built to increase access to observations of underwater conditions collected by both fishing and science communities.">
 
 <title>FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries – Sarah Salois, Ph.D</title>
@@ -154,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 1, 2026</p>
+      <p class="date">February 1, 2026</p>
     </div>
   </div>
   
@@ -166,7 +166,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Talk about FIShBOT here.</p>
+<p>FIShBOT is a new exciting near-realtime product that we created to provide standardized daily bottom condition data. FIShBOT is updated every 24 hours and currently includes temperature, salinity, and dissolved oxygen.</p>
+<p>The goal of this project is to increase the access to and utility of underwater observations collected by fishing and science communities. Until now, this data existed primarily as largely disparate data sources and is now available as daily averages on a common standardized grid across the entire NE Continental Shelf.</p>
+<p>This product is still in development and we are excited to continue to watch it grow and think of more ways to serve it back to the folks who are collecting this critical data!</p>
+<p>Visit our <a href="https://fishbot.net">site</a> to learn more!</p>
 <p><a href="fishbot_coverage_log_update.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="fishbot_coverage_log_update.png" class="img-fluid"></a></p>
 
 
@@ -245,7 +248,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/SSalois1\.github\.io\/demo_project\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

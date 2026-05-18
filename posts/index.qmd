@@ -1,0 +1,13 @@
+---
+title: "Current Projects"
+listing:
+  contents: "*/index.qmd"   # This tells Quarto where to find the posts
+  categories: true       # Adds tags
+  sort: "date desc"      # Newest posts first
+  type: default          # Use 'default', 'grid', or 'table'
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+
+---

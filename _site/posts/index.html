@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-01-01">
-<meta name="description" content="A standardized gridded data product built to increase access to observations of underwater conditions collected by both fishing and science communities.">
 
-<title>FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries – Sarah Salois, Ph.D</title>
+<title>Current Projects – Sarah Salois, Ph.D</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,31 +23,30 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-58e39b83f7df1deef4fc24aa9b353c18.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-f129b255cc873fb1a0ade3b4fe397bf8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
-<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-58e39b83f7df1deef4fc24aa9b353c18.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-d2c44cb0e9e95f56e42b2e45514a8686.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,20 +74,78 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Sarah Salois, Ph.D</span>
     </a>
   </div>
@@ -101,19 +156,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../posts/index.html"> 
+    <a class="nav-link active" href="../posts/index.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -124,39 +179,25 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q29vcGVyYXRpdmUtUmVzZWFyY2g=">Cooperative-Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YQ==">Data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RmllbGQtV29yaw==">Field-Work <span class="quarto-category-count">(2)</span></div><div class="category" data-category="T2NlYW5vZ3JhcGh5">Oceanography <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Data</div>
-    <div class="quarto-category">Oceanography</div>
-    <div class="quarto-category">Cooperative-Research</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    <p>A standardized gridded data product built to increase access to observations of underwater conditions collected by both fishing and science communities.</p>
-  </div>
+<h1 class="title">Current Projects</h1>
 </div>
 
 
-<div class="quarto-title-meta">
+
+<div class="quarto-title-meta column-page-left">
 
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">January 1, 2026</p>
-    </div>
-  </div>
   
     
   </div>
@@ -166,12 +207,108 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Talk about FIShBOT here.</p>
-<p><a href="fishbot_coverage_log_update.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="fishbot_coverage_log_update.png" class="img-fluid"></a></p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="RGF0YSUyQ09jZWFub2dyYXBoeSUyQ0Nvb3BlcmF0aXZlLVJlc2VhcmNo" data-listing-date-sort="1769922000000" data-listing-file-modified-sort="1778774677674" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="121">
+<div class="thumbnail"><a href="../posts/2026-02-01-fishbot/index.html" class="no-external">
+
+<p class="card-img-top"><img src="2026-02-01-fishbot\fishbot_coverage_log_update.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../posts/2026-02-01-fishbot/index.html" class="no-external">FIShBOT: Fishing Industry Shared Bottom Oceanographic Timeseries</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0YQ=='); return false;">Data</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('T2NlYW5vZ3JhcGh5'); return false;">Oceanography</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29vcGVyYXRpdmUtUmVzZWFyY2g='); return false;">Cooperative-Research</div>
+
+</div>
+<div class="delink listing-description"><a href="../posts/2026-02-01-fishbot/index.html" class="no-external">
+<p>A standardized gridded data product built to increase access to observations of underwater conditions collected by both fishing and science communities.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../posts/2026-02-01-fishbot/index.html" class="no-external">
+<div class="listing-date">
+Feb 1, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="UmVzZWFyY2glMkNPY2Vhbm9ncmFwaHklMkNGaWVsZC1Xb3Jr" data-listing-date-sort="1767243600000" data-listing-file-modified-sort="1778775176943" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="83">
+<div class="thumbnail"><a href="../posts/2026-01-01-emolt/index.html" class="no-external">
+
+<p class="card-img-top"><img src="2026-01-01-emolt\1500x1000-eMOLT-infographic-NEFSC.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../posts/2026-01-01-emolt/index.html" class="no-external">eMOLT</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('T2NlYW5vZ3JhcGh5'); return false;">Oceanography</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmllbGQtV29yaw=='); return false;">Field-Work</div>
+
+</div>
+<div class="delink listing-description"><a href="../posts/2026-01-01-emolt/index.html" class="no-external">
+<p>eMOLT: Environmental Monitors on Lobster Traps and Large Trawlers</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../posts/2026-01-01-emolt/index.html" class="no-external">
+<div class="listing-date">
+Jan 1, 2026
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="UmVzZWFyY2glMkNPY2Vhbm9ncmFwaHklMkNGaWVsZC1Xb3Jr" data-listing-date-sort="1750737600000" data-listing-file-modified-sort="1772036260960" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
+<div class="thumbnail"><a href="../posts/2025-06-24-shortfin/index.html" class="no-external">
+
+<p class="card-img-top"><img src="2025-06-24-shortfin\index_files\figure-html\plot-example-1.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../posts/2025-06-24-shortfin/index.html" class="no-external">Oceanographic Drivers of Shortfin Squid</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('T2NlYW5vZ3JhcGh5'); return false;">Oceanography</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmllbGQtV29yaw=='); return false;">Field-Work</div>
+
+</div>
+<div class="delink listing-description"><a href="../posts/2025-06-24-shortfin/index.html" class="no-external">
+<p>Working with the commercial squid fishing industry to better understand how ocean conditions and processes influence the variability of shortfin squid catch in the Mid-Atlantic.</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../posts/2025-06-24-shortfin/index.html" class="no-external">
+<div class="listing-date">
+Jun 24, 2025
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -245,7 +382,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/SSalois1\.github\.io\/demo_project\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -586,38 +723,6 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 

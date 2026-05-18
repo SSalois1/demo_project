@@ -21,8 +21,8 @@ sensors to record bottom water temperatures and oxygen levels, which helps
 improve regional ocean circulation models and supports adaptive fishing practices. 
 
 The data collected is served back to captains in realtime, providing them with 
-oceanographic conditions which they can use to support their fishing decsions.
-information.  
+oceanographic conditions which they can use to support their fishing decisions.
+ 
 
 Learn more about [eMOLT](https://www.fisheries.noaa.gov/new-england-mid-atlantic/climate/partnering-fishing-industry-monitor-northeast-shelf)
 

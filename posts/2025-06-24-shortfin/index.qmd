@@ -17,7 +17,8 @@ format:
 ---
 
 
-My post content starts here. I will add R code chunks, images, and math.
+My post content starts here. I will add R code chunks, images, and 
+relevant figures. This is just an example/placeholder.
 
 ```{r}
 #| label: plot-example
